@@ -1,0 +1,11 @@
+{
+  "extends": "../../tsconfig.json",
+  "include": [
+    "./**/*.ts"
+  ],
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "../../dist/out-tsc",
+    "target": "es5"
+  }
+}

@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+# server and client build directories
+bin/
+dist/
+
+# visual studio settings
+.vscode/
+
+# package-lock.json
+package-lock.json
