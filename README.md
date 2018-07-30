@@ -1,2 +1,2 @@
-# typescript-express
-Express, TypeScript and Webpack starter
+# angular-express-typescript
+Express, Angular, TypeScript and Webpack
