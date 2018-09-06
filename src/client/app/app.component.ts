@@ -16,7 +16,7 @@ export class AppComponent {
 
   cards: ICard[] = [
     {
-      title: 'Lorem Ipsum',
+      title: 'AVATRTH',
       description: 'Lorem ipsum dolor sit amet',
       image: 'http://via.placeholder.com/350x150'
     },
@@ -46,4 +46,8 @@ export class AppComponent {
       image: 'http://via.placeholder.com/350x150'
     }
   ];
+
+  click() {
+    alert('clicked');
+  }
 }
